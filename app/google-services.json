@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525951378378",
+    "project_id": "locationshop-c37ce",
+    "storage_bucket": "locationshop-c37ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525951378378:android:18ecc676aaaf3b477ee533",
+        "android_client_info": {
+          "package_name": "com.example.locationshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525951378378-it68ks4c7rlphroq9jq7l95ni0uia12h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68ATgTCrCWEHUfA_PCrz8yA-_HgS3tyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525951378378-it68ks4c7rlphroq9jq7l95ni0uia12h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
